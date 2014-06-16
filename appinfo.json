@@ -1,0 +1,18 @@
+{
+    "uuid": "35aa2d42-b9c4-4741-8897-026e0dbedd00",
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sergio.vera.h@gmail.com",
+    "shortName": "Accelerometer",
+    "longName": "Accelerometer",
+    "watchapp": {
+        "watchface": false
+    },
+    "versionCode": 1,
+    "appKeys": {},
+    "versionLabel": "1.0"
+}
